@@ -1,0 +1,2 @@
+This is a foo test.
+I like foo!

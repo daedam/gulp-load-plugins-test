@@ -1,0 +1,24 @@
+{
+  "name": "gulp-load-plugins-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daedam/gulp-load-plugins-test.git"
+  },
+  "author": "Adam Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daedam/gulp-load-plugins-test/issues"
+  },
+  "homepage": "https://github.com/daedam/gulp-load-plugins-test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-change": "^1.0.2",
+    "gulp-load-plugins": "^2.0.7"
+  }
+}
